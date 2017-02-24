@@ -1,0 +1,7 @@
+{
+  "realm": "testrealm",
+  "auth-server-url": "https://https-keyloak1.apps.a.nmdemo/auth",
+  "ssl-required": "external",
+  "resource": "testapp",
+  "public-client": true
+}
